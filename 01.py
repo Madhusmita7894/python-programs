@@ -1,0 +1,15 @@
+a=15
+b=12
+c=a+b
+print(c)
+p=1000
+r=0.8
+n=9
+si=p*r*n
+print(si)
+pi=3.14
+r=10
+Area_circle=pi*r*r
+print(Area_circle)
+a=50
+print
